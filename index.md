@@ -8,6 +8,7 @@ This page aggregates all videos and links for my PhD Thesis.
 ### Links
 
 #### Hardware
+[Onshape Model](https://cad.onshape.com/documents/8c6aa9a8917f764cb7039c2d/w/af71e5083243affec9ac82a8/e/e42d9814ef6f704f62b6758c)
 [Wolfgang-OP URDF](https://github.com/bit-bots/wolfgang_robot/tree/master/wolfgang_description)
 [Wolfgang-OP MoveIt config](https://github.com/bit-bots/wolfgang_robot/tree/master/wolfgang_moveit_config)
 [Wolfgang-OP PyBullet Simulation](https://github.com/bit-bots/wolfgang_robot/tree/master/wolfgang_pybullet_sim)
