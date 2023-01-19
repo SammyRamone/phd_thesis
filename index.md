@@ -4,6 +4,24 @@ This page aggregates all videos and links for my PhD Thesis.
 
 ### Videos
 
+#### Hardware
+- [Overview](https://www.youtube.com/watch?v=UsH6QIKzr7Q)
+
+#### Fall Managemen
+- [HCM & fall robustness](https://cloud.mafiasi.de/s/zoPP4HTf7sa46S3)
+
+#### OptiQuint
+- [Generalization](https://cloud.mafiasi.de/s/kTjaEpwyqqi2oyG)
+- [On RoboCup competition](https://cloud.mafiasi.de/s/3QPJFkaLab7XDEY)
+- [More videos from RoboCup competitions](https://cloud.mafiasi.de/s/6Gc3fXdyW6Pdoj7)
+- [Manual controlled walking example](https://cloud.mafiasi.de/s/CDenApyigfBf226)
+- [Winning push-recovery challenge](https://cloud.mafiasi.de/s/qik7DWatawgyaGt)
+- [Extract from HLVS final](https://cloud.mafiasi.de/s/WwM9A4XgyFpEwiA)
+- [Usage in Running Robot Competition](https://cloud.mafiasi.de/s/q4zQo7JJ8rEfZcT)
+- [Walking on stairs in Running Robot Competition](https://cloud.mafiasi.de/s/Xt233Se8eyKJnY2)
+
+#### DeepQuintic
+- [Generalization to different robots](https://cloud.mafiasi.de/s/2dCyTAENn5xqYaf)
 
 ### Links
 
@@ -30,6 +48,7 @@ This page aggregates all videos and links for my PhD Thesis.
 - [HCM](https://github.com/bit-bots/bitbots_motion/tree/master/bitbots_hcm)
 
 #### OptiQuint
+- [Tutorial](https://bit-bots.github.io/quintic_walk/)
 - [Spline library](https://github.com/bit-bots/bitbots_motion/tree/master/bitbots_splines) (based on work of team Rhoban. Refactored by Timon Engelke and Finn-Thorben Sell)
 - [Parameter Optimization](https://github.com/bit-bots/parallel_parameter_search)
 - [Walk skill](https://bit-bots.github.io/quintic_walk/)
