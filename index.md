@@ -17,6 +17,7 @@ This page aggregates all videos and links for my PhD Thesis.
 - [Manual controlled walking example](https://cloud.mafiasi.de/s/CDenApyigfBf226)
 - [Winning push-recovery challenge](https://cloud.mafiasi.de/s/qik7DWatawgyaGt)
 - [Extract from HLVS final](https://cloud.mafiasi.de/s/WwM9A4XgyFpEwiA)
+- [Example from HLVS](https://cloud.mafiasi.de/s/Mz93nnqrLKgnMJ2)
 - [Usage in Running Robot Competition](https://cloud.mafiasi.de/s/q4zQo7JJ8rEfZcT)
 - [Walking on stairs in Running Robot Competition](https://cloud.mafiasi.de/s/Xt233Se8eyKJnY2)
 
