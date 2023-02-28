@@ -22,7 +22,16 @@ This page aggregates all videos and links for my PhD Thesis.
 - [Walking on stairs in Running Robot Competition](https://cloud.mafiasi.de/s/Xt233Se8eyKJnY2)
 
 #### DeepQuintic
+- [Choice of action space]()
+- [Network initialization]()
+- [Network initialization with Walker2DPybulletEnv](https://cloud.mafiasi.de/s/teSjfMrR4ptoGoW)
+- [Adaptive Phase](https://cloud.mafiasi.de/s/gn5Qdg38BLME4iA)
+- [Usage of Arms](https://cloud.mafiasi.de/s/wjLS7fLHfMziYt7)
+- [Quality of Reference Motion](https://cloud.mafiasi.de/s/gtbRemqY7twSwYt)
 - [Generalization to different robots](https://cloud.mafiasi.de/s/2dCyTAENn5xqYaf)
+- [Transfer to Webots and ROS](https://cloud.mafiasi.de/s/FggQK6H989f5KDT)
+- [Transfer to real robot](https://cloud.mafiasi.de/s/2zM37Jdnok2dcpE)
+
 
 ### Links
 
