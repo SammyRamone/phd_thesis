@@ -1,6 +1,6 @@
-## PhD Thesis
+## Learning Motion Skills for a Humanoid Robot
 
-This page aggregates all videos and links for my PhD Thesis.
+This page aggregates all videos and links for my PhD thesis titled "Learning Motion Skills for a Humanoid Robot".
 
 ### Videos
 
