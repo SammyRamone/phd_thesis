@@ -23,8 +23,9 @@ This page aggregates all videos and links for my PhD Thesis.
 
 #### DeepQuintic
 - [Choice of action space]()
-- [Network initialization]()
-- [Network initialization with Walker2DPybulletEnv](https://cloud.mafiasi.de/s/teSjfMrR4ptoGoW)
+- [Network initialization training](https://cloud.mafiasi.de/s/S5TXddAcmDzDpZt)
+- [Network initialization result]()
+- [Network initialization result with Walker2DPybulletEnv](https://cloud.mafiasi.de/s/teSjfMrR4ptoGoW)
 - [Adaptive Phase](https://cloud.mafiasi.de/s/gn5Qdg38BLME4iA)
 - [Usage of Arms](https://cloud.mafiasi.de/s/wjLS7fLHfMziYt7)
 - [Quality of Reference Motion](https://cloud.mafiasi.de/s/gtbRemqY7twSwYt)
