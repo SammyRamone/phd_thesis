@@ -22,9 +22,9 @@ This page aggregates all videos and links for my PhD thesis titled "Learning Mot
 - [Walking on stairs in Running Robot Competition](https://cloud.mafiasi.de/s/Xt233Se8eyKJnY2)
 
 #### DeepQuintic
-- [Choice of action space]()
+- [Choice of policy space](https://cloud.mafiasi.de/s/gF6nYBArPAWkZqn)
 - [Network initialization training](https://cloud.mafiasi.de/s/S5TXddAcmDzDpZt)
-- [Network initialization result]()
+- [Network initialization result](https://cloud.mafiasi.de/s/QeKGZzjHWe5MSMc)
 - [Network initialization result with Walker2DPybulletEnv](https://cloud.mafiasi.de/s/teSjfMrR4ptoGoW)
 - [Adaptive Phase](https://cloud.mafiasi.de/s/gn5Qdg38BLME4iA)
 - [Usage of Arms](https://cloud.mafiasi.de/s/wjLS7fLHfMziYt7)
