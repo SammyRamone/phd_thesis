@@ -7,7 +7,7 @@ This page aggregates all videos and links for my PhD thesis titled "Learning Mot
 #### Hardware
 - [Overview](https://www.youtube.com/watch?v=UsH6QIKzr7Q)
 
-#### Fall Managemen
+#### Fall Management
 - [HCM & fall robustness](https://cloud.mafiasi.de/s/zoPP4HTf7sa46S3)
 
 #### OptiQuint
